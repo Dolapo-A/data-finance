@@ -20,7 +20,7 @@ const Cards = () => {
 						<li className="py-2 border-b mx-8">1 Granted User</li>
 						<li className="py-2 border-b mx-8">Send up to 2GB</li>
 					</ul>
-					<button className="text-black w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 bg-[#00df9a]">
+					<button className="text-black w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 bg-[#00df9a] hover:bg-black hover:text-white ease-in-out duration-300">
 						Get Started
 					</button>{" "}
 				</div>
@@ -37,11 +37,11 @@ const Cards = () => {
 						<li className="py-2 border-b mx-8">1 Granted User</li>
 						<li className="py-2 border-b mx-8">Send up to 2GB</li>
 					</ul>
-					<button className="bg-black w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 text-[#00df9a]">
+					<button className="bg-black w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 text-[#00df9a] hover:bg-white hover:text-black ease-in-out duration-300">
 						Get Started
 					</button>{" "}
 				</div>
-				<div className="w-full border flex flex-col p-4 my-4 rounded-lg hover:shadow-lg hover:scale-105 duration-300">
+				<div className="w-full border flex flex-col p-4 my-4 rounded-lg hover:shadow-lg hover:scale-105 duration-300 ">
 					<img
 						src={Triple}
 						alt="/"
@@ -54,7 +54,7 @@ const Cards = () => {
 						<li className="py-2 border-b mx-8">1 Granted User</li>
 						<li className="py-2 border-b mx-8">Send up to 2GB</li>
 					</ul>
-					<button className="text-black w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 bg-[#00df9a]">
+					<button className="text-black w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 bg-[#00df9a] hover:bg-black hover:text-white ease-in-out duration-300">
 						Get Started
 					</button>{" "}
 				</div>

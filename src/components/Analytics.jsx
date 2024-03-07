@@ -17,7 +17,7 @@ const Analytics = () => {
 						consectetur tempore, soluta reprehenderit debitis nam nobis deserunt
 						distinctio quo fugit! Laboriosam?
 					</p>
-					<button className="text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3 bg-black">
+					<button className="text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3 bg-black hover:bg-[#00df9a] hover:text-black ease-in-out duration-300">
 					Get Started
 				</button>
 				</div>
